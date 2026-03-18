@@ -1,7 +1,7 @@
 namespace CalculatorApp.Tests;
 
 [TestClass]
-public class UnitTestCalculator
+public class UnitTestCalculatorSum
 {
     [TestMethod]
     public void TestSumTwoPositiveNumbers()
